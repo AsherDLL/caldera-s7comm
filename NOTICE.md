@@ -2,7 +2,7 @@
 
 caldera-s7comm, an S7comm (Siemens S7) plugin for MITRE Caldera.
 
-Copyright (c) 2026 Asher Davila.
+Copyright (c) 2026 Asher Davila and Malav Vyas.
 
 Licensed under the Apache License, Version 2.0 (see `LICENSE`).
 
